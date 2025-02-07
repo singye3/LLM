@@ -36,7 +36,7 @@ This repository contains the implementation of a Transformer model using PyTorch
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/ingye/transformer-model.git](https://github.com/singye3/LLM.git)
+    git clone https://github.com/ingye/transformer-model.git
     cd transformer
     ```
 
